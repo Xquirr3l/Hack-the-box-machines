@@ -18,6 +18,7 @@
 
 6. From your scans, what OS type is running on the target? 
 * Unix
+
 7.What is the command we need to run in order to display the 'ftp' client help menu?
 * ftp -h
 
