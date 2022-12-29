@@ -29,3 +29,16 @@
 
 9. How many keys are present inside the database with index 0? 
 * 4
+
+![image](https://user-images.githubusercontent.com/107659588/209995878-d36f446d-e113-475c-a99a-52708000115c.png)
+
+10. Which command is used to obtain all the keys in a database? 
+* KEYS *
+
+![image](https://user-images.githubusercontent.com/107659588/209995968-37b81e19-e6f2-4e67-a043-af21893c8a93.png)
+
+
+
+
+
+
