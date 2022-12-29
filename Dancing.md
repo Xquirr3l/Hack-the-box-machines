@@ -9,6 +9,7 @@
 
 3.What is the service name for port 445 that came up in our Nmap scan? 
 * microsoft-ds
+
 4.What is the 'flag' or 'switch' we can use with the SMB tool to 'list' the contents of the share?
 * -L
 
@@ -19,6 +20,7 @@
 
 6.What is the name of the share we are able to access in the end with a blank password?
 * WorkShares 
+
 7.What is the command we can use within the SMB shell to download the files we find? 
 * Get.
 
